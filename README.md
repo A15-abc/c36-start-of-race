@@ -1,2 +1,2 @@
-# c36-start-of-race
-enter your name!
+# C36RV_SpeedRacer_TeacherActivity
+Teacher Activity
